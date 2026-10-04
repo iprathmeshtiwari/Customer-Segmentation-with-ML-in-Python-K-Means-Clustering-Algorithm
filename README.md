@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means
 
-Preview !!
+## Preview !!
 
 ![Customer Segmentation](https://raw.githubusercontent.com/iprathmeshtiwari/Customer-Segmentation-with-ML-in-Python-K-Means-Clustering-Algorithm/main/Customer%20Segmentation/Screenshot/Screenshot%202026-10-05%20021502.png)
 
