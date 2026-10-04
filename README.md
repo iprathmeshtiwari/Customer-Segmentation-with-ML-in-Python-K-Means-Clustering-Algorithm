@@ -136,3 +136,8 @@ This project demonstrates an end-to-end machine learning workflow, including:
 
 ```
 ```
+👨‍💻 Conclusion
+
+This project provides an end-to-end implementation of Customer Segmentation using K-Means Clustering, starting from dataset analysis and model training to model deployment through Streamlit.
+
+The project also documents the setup, configuration, errors, troubleshooting, and solutions encountered during development, making it easier to reproduce and run the project in the future.
