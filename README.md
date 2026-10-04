@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means
 
+[("https://github.com/iprathmeshtiwari/Customer-Segmentation-with-ML-in-Python-K-Means-Clustering-Algorithm/tree/main/Customer%20Segmentation/Screenshot")]
+
 ## 📌 Project Overview
 
 This project is a **Customer Segmentation System** built using **Python, Machine Learning, and Streamlit**.
